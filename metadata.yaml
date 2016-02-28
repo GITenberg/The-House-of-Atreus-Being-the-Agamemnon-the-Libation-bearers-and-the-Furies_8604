@@ -1,0 +1,39 @@
+_repo: The-House-of-Atreus-Being-the-Agamemnon-the-Libation-bearers-and-the-Furies_8604
+contributor:
+  translator:
+    agent_name: Morshead, E. D. A. (Edmund Doidge Anderson)
+    alias: Morshead, Edmund Doidge Anderson
+    birthdate: 1849
+    deathdate: 1912
+    gutenberg_agent_id: '4895'
+    url: http://www.gutenberg.org/2009/agents/4895
+creator:
+  author:
+    agent_name: Aeschylus
+    aliases:
+    - Αἰσχύλος
+    - Aischylos
+    - Αισχύλος
+    birthdate: -525
+    deathdate: -456
+    gutenberg_agent_id: '2825'
+    url: http://www.gutenberg.org/2009/agents/2825
+    wikipedia: http://en.wikipedia.org/wiki/Aeschylus
+description: ''
+gutenberg_bookshelf:
+- Harvard Classics
+- Classical Antiquity
+gutenberg_issued: '2005-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8604'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Agamemnon, King of Mycenae (Mythological character) -- Drama'
+- !lcsh 'Orestes, King of Argos (Mythological character) -- Drama'
+title: The House of Atreus; Being the Agamemnon, the Libation bearers, and the Furies
+url: http://www.gutenberg.org/ebooks/8604
